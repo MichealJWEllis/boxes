@@ -1,0 +1,64 @@
+.demo0 {
+  width: 150px;
+  height: 150px;
+  border: 5px solid black;
+  padding: 0px;
+  background-color: green;
+  position: relative;
+  left: 400px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.demo1 {
+  width: 150px;
+  height: 150px;
+  border: 5px solid black;
+  padding: 0px;
+  background-color: orange;
+  position: relative;
+  left: 600px;
+  top: 10px;
+  right: 0px;
+  bottom: 0px;
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.demo2 {
+  width: 150px;
+  height: 150px;
+  border: 5px solid black;
+  padding: 0px;
+  background-color: blue;
+  position: relative;
+  left: 800px;
+  top: 10px;
+  right: 0px;
+  bottom: 0px;
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.demo3 {
+  width: 150px;
+  height: 150px;
+  border: 5px solid black;
+  padding: 0px;
+  background-color: red;
+  position: relative;
+  left: 1000px;
+  top: 10px;
+  right: 0px;
+  bottom: 0px;
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
